@@ -1,8 +1,8 @@
 class Mordecai < Formula
   desc "CLI tool to link a local codebase to Mordecai"
   homepage "https://github.com/codeyarduk/mordecai"
-  url "https://github.com/codeyarduk/mordecai/archive/refs/tags/v0.0.31.tar.gz"
-  sha256 "4c866ee4b8b8476e4968cf98704d1af2c499e9d86345974e9cac78604ecbd5a1"
+  url "https://github.com/codeyarduk/mordecai/archive/refs/tags/v0.0.32.tar.gz"
+  sha256 "fda5a9e82189a7a6cfd49f07ee271a6f5013a28575d7e6800e938f286b18c5fc"
   license "MIT"
 
   depends_on "go" => :build
